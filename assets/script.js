@@ -11,3 +11,7 @@ const PI = 3.14; //Les variables déclarées avec const ne peuvent pas être mod
 var bool = true; //Les variables booléennes
 
 var bool2 = false;
+
+typeof(name); // Affiche "string"  //Renvoie le type de la variable
+
+typeof(bool); // Affiche "boolean"
