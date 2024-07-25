@@ -8,3 +8,6 @@ const TVA = 20;
 
 const PI = 3.14; //Les variables déclarées avec const ne peuvent pas être modifiées
 
+var bool = true; //Les variables booléennes
+
+var bool2 = false;
